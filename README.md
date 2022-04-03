@@ -35,7 +35,7 @@ conda create -n testenv python=3.7
 ```
 
 
-Full guide on how to set up an environment can be found here: <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html>
+Full guide on how to set up an environment can be found [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
 To activate the environment:
 ```
