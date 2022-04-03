@@ -15,11 +15,10 @@ Original repository supporting the research paper in Nature Communications (Prim
 * Prognostic power of segmentations (to reproduce the Kaplan Meier curves for survival prediction, based on the RECIST and tumor volume calculated from automatic and manual contours)
 * 'In-silico' clinical trial (to reproduce the results for time/varibility assessment and qualitative preference score)
 * Comparison to a published method (to reproduce the results of comparison of proposed method to a published method)
-
+* Software for qualitative assesment (Executable software (Windows only) for participation in the qualitative contour preference assesment) 
 
 #### **Links for extra software:**
-
-* Software for qualitative assesment (Executable software (Windows only) for participation in the qualitative contour preference assesment)  LINK TO ZENODE
+ 
 * Conversion of DICOM to nrrd was done using **Precision Medicine Toolbox**. Project GitHub Repository link: <https://github.com/primakov/precision-medicine-toolbox> 
 
 
