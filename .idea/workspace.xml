@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b61e6959-14ed-402e-b5c0-46e64b996858" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Automatic segmentation script/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Software for qualitative assesment/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatic segmentation script/Automatic batch segmentation .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatic segmentation script/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Automatic segmentation script/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatic segmentation script/readme.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
