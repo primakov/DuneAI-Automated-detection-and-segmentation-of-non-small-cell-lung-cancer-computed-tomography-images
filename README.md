@@ -1,5 +1,5 @@
-﻿**Fully automatic Non-Small Cell Lung Cancer detection and segmentation pipeline.**
-
+﻿# DuneAI-Automated-detection-and-segmentation-of-non-small-cell-lung-cancer-computed-tomography-images
+### Repository supporting the original research paper in Nature Communications (Primakov et al. 2022)
 
 ## **Repository structure**
 
@@ -34,51 +34,51 @@ In order to open the files in the code repository you will need a Jupyter notebo
 
 Before running the code it is necessary to install all the packages under requirements.txt. We recommend using a virtual environment, in order not to break existing environments and previous installations. New conda environment can be created as follows:
 
-'''python 
-    {
-    conda create -n testenv python=3.7 
-    }
-'''
+```
+conda create -n testenv python=3.7 
+```
+
 
 Full guide on how to set up an environment can be found here: <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html>
 
 To activate the environment:
-
-*conda activate testenv*
-
+```
+conda activate testenv
+```
 Once the virtual environment is created and activated you can install the dependencies, by first running:
 
-*conda install pip*
+```
+conda install pip
+```
 
 and then navigate to the repository (codebase) folder and run:
 
-*pip install -r requirements.txt*
+```
+pip install -r requirements.txt
+```
 
-At this stage, you shoul be able to run the scripts.
+At this stage, you should be able to run the scripts.
 
-To start jupyter notebook, navigate to the repository (codebase) folder and run:
-
-*jupyter notebook*
 
 
 To open the R scipt, you will need following packages installed in  the R-studio:
-
+```
 library(survival)
 
 library(survminer)
-
+```
 you can install them by running the code down below in the R-studio console:
+``` R
+install.packages('survival')
 
-*install.packages('survival')*
+install.packages('survminer')
+```
 
-*install.packages('survminer')*
+## **Disclaimer**
 
+The software is provided **"as is"**, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
-**Disclaimer**
-
-The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
-
-**Example data**
+## **Example data**
 
 We include 13 patients with NSCLC cases from the NSCLC-Radiomics-Interobserver1 dataset plus manual segmentations. The full dataset can be found at <https://wiki.cancerimagingarchive.net/display/Public/NSCLC-Radiomics-Interobserver1>. The data is distributed under the Creative Commons Attribution 3.0 Unported License <https://creativecommons.org/licenses/by/3.0/> license. 
 
