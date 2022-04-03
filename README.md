@@ -75,6 +75,14 @@ install.packages('survminer')
 The software is provided **"as is"**, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
 ## **Example data**
+To run the examples in the repository we provide 3 test patients with NSCLC cases from the NSCLC-Radiomics-Interobserver1 dataset plus manual segmentations in the nrrd format. The full dataset can be found at https://wiki.cancerimagingarchive.net/display/Public/NSCLC-Radiomics-Interobserver1. The data is distributed under the Creative Commons Attribution 3.0 Unported License https://creativecommons.org/licenses/by/3.0/ license. 
 
-LINK TO ZENODE
+Wee, L., Aerts, H. J.L., Kalendralis, P., & Dekker, A. (2019). Data from NSCLC-Radiomics-Interobserver1 [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/tcia.2019.cwvlpd26.
+
+Aerts HJWL, Velazquez ER, Leijenaar RTH, Parmar C, Grossmann P, Carvalho S, Bussink J, Monshouwer R, Haibe-Kains B, Rietveld D, Hoebers F, Rietbergen MM, Leemans CR, Dekker A, Quackenbush J, Gillies RJ, Lambin P. Decoding Tumour Phenotype by Noninvasive Imaging Using a Quantitative Radiomics Approach, Nature Communications, Volume 5, Article Number 4006, June 03, 2014. DOI: http://doi.org/10.1038/ncomms5006. 
+
+Kalendralis, P., Shi, Z., Traverso, A., Choudhury, A., Sloep, M., Zhovannik, I., Starmans, M.P., Grittner, D., Feltens, P., Monshouwer, R., Klein, S., Fijten, R., Aerts, H., Dekker, A., van Soest, J. and Wee, L. (2020). FAIR‐compliant clinical, radiomics and DICOM metadata of RIDER, Interobserver, Lung1 and Head‐Neck1 TCIA collections. Medical Physics. DOI: http://doi.org/10.1002/mp.14322.
+
+Clark K, Vendt B, Smith K, Freymann J, Kirby J, Koppel P, Moore S, Phillips S, Maffitt D, Pringle M, Tarbox L, Prior F. The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository, Journal of Digital Imaging, Volume 26, Number 6, December, 2013, pp 1045-1057. DOI: 10.1007/s10278-013-9622-7
+
 
