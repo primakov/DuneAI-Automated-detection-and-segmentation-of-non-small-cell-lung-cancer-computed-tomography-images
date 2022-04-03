@@ -1,5 +1,7 @@
 ﻿# DuneAI-Automated-detection-and-segmentation-of-non-small-cell-lung-cancer-computed-tomography-images
-Original repository supporting the research paper in Nature Communications (Primakov et al. 2022) 
+Original repository supporting the research paper in Nature Communications (Primakov et al. 2022)
+
+![Method pipe-line](Fig1.png)
 ### **Repository structure**
 #### **Usage examples:**
 
